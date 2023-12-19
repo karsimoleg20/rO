@@ -1,0 +1,9 @@
+rmi\Function.class
+socket\Main.class
+rmi\Client.class
+socket\Client.class
+rmi\Server.class
+socket\Server.class
+rmi\Main.class
+socket\MessageExchanger.class
+rmi\FunctionImpl.class
